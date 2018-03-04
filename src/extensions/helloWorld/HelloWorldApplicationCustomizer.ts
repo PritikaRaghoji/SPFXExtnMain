@@ -1,9 +1,9 @@
-import { override } from '@microsoft/decorators';
-import { Log } from '@microsoft/sp-core-library';
+//import { override } from '@microsoft/decorators';
+//import { Log } from '@microsoft/sp-core-library';
 import {
   BaseApplicationCustomizer
 } from '@microsoft/sp-application-base';
-import { Dialog } from '@microsoft/sp-dialog';
+//import { Dialog } from '@microsoft/sp-dialog';
 
 import * as strings from 'HelloWorldApplicationCustomizerStrings';
 
